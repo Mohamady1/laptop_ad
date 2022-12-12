@@ -1,6 +1,6 @@
 # laptop_ad
 
-A new Flutter project.
+A New Flutter Project UI for Laptop advertisement
 
 ## Getting Started
 
